@@ -19,7 +19,7 @@ pip install -e .
 Download dataset at ./data from following links
 
 ```
-Coming Soon.
+https://drive.google.com/file/d/19SOqzYEKvkna6DKd74gcJ50Wd4phOHr3/view?usp=share_link
 ```
 ## Usage
 
