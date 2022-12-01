@@ -40,4 +40,13 @@ python script.py -t show
 
 ## Paper 
 
-For more details, please see our paper Dynamic Graph Neural Networks Under Spatio-Temporal Distribution Shift which has been accepted at NeurIPS 2022. If this code is useful for your work, please consider to cite our paper.
+For more details, please see our paper [Dynamic Graph Neural Networks Under Spatio-Temporal Distribution Shift](https://openreview.net/pdf?id=1tIUqrUuJxx) which has been accepted at NeurIPS 2022. If this code is useful for your work, please consider to cite our paper.
+
+```
+@inproceedings{zhang2022dynamic,
+  title={Dynamic graph neural networks under spatio-temporal distribution shift},
+  author={Zhang, Zeyang and Wang, Xin and Zhang, Ziwei and Li, Haoyang and Qin, Zhou and Zhu, Wenwu},
+  booktitle={Advances in Neural Information Processing Systems},
+  year={2022}
+}
+```
