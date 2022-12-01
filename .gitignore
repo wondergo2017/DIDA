@@ -1,0 +1,4 @@
+/data
+/**/*.pyc
+*.egg-info
+.vscode

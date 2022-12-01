@@ -1,0 +1,1 @@
+python main.py --dataset collab --seed 1  --device_id 3 --log_dir "../logs/exp0/collab-1/" > "../logs/exp0/collab-1/logn.txt"

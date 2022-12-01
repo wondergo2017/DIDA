@@ -1,0 +1,1 @@
+python main.py --dataset synthetic-0.8 --seed 1  --device_id 3 --log_dir "../logs/exp0/synthetic-0.8-1/" > "../logs/exp0/synthetic-0.8-1/logn.txt"

@@ -1,0 +1,1 @@
+python main.py --dataset yelp --seed 1  --device_id 2 --log_dir "../logs/exp0/yelp-1/" > "../logs/exp0/yelp-1/logn.txt"
